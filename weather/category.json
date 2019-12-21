@@ -1,0 +1,23 @@
+[
+  {
+    "id": null,
+    "name": "owoc",
+    "weatherConditions" : [
+      "CLEAR", "SUNSHINE", "UNKNOWN"
+    ]
+  },
+  {
+    "id": null,
+    "name": "elektronika",
+    "weatherConditions" : [
+      "DRIZZLE", "UNKNOWN"
+    ]
+  },
+  {
+    "id": null,
+    "name": "meble",
+    "weatherConditions" : [
+      "CLEAR", "SUNSHINE", "UNKNOWN"
+    ]
+  }
+]

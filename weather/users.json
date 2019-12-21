@@ -1,0 +1,57 @@
+[
+  {
+    "id": null,
+    "name": "WOJTEK",
+    "surname": "KOWALSKI",
+    "password": "aa",
+    "city": "WARSAW",
+    "email": "dd",
+    "gender": "MALE",
+    "age": 22,
+    "preferences": "PRICE_DESC"
+  },
+  {
+    "id": null,
+    "name": "OLA",
+    "surname": "NOWAK",
+    "password": "bb",
+    "city": "BERLIN",
+    "email": "dd",
+    "gender": "FEMALE",
+    "age": 33,
+    "preferences": "PRICE_DESC"
+  },
+  {
+    "id": null,
+    "name": "ALA",
+    "surname": "LIS",
+    "password": "cc",
+    "city": "MADRID",
+    "email": "dd",
+    "gender": "FEMALE",
+    "age": 44,
+    "preferences": "NAME_DESC"
+  },
+  {
+    "id": null,
+    "name": "KASIA",
+    "surname": "WILK",
+    "password": "dd",
+    "city": "PARIS",
+    "email": "dd",
+    "gender": "FEMALE",
+    "age": 55,
+    "preferences": "NAME_DESC"
+  },
+  {
+    "id": null,
+    "name": "MARCIN",
+    "surname": "MOTORSKI",
+    "password": "ee",
+    "city": "TOKYO",
+    "email": "dd",
+    "gender": "MALE",
+    "age": 77,
+    "preferences": "PRICE_MIN"
+  }
+]

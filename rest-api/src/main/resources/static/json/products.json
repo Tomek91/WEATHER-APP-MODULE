@@ -1,0 +1,234 @@
+[
+  {
+    "name": "banan",
+    "price": 2.2,
+    "category": {
+      "id": null,
+      "name": "owoc"
+    }
+  },
+  {
+    "name": "jablko",
+    "price": 3.3,
+    "category": {
+      "id": null,
+      "name": "owoc"
+    }
+  },
+  {
+    "name": "mango",
+    "price": 9.99,
+    "category": {
+      "id": null,
+      "name": "owoc"
+    }
+  },
+  {
+    "name": "kokos",
+    "price": 19.99,
+    "category": {
+      "id": null,
+      "name": "owoc"
+    }
+  },
+  {
+    "name": "gruszka",
+    "price": 6.89,
+    "category": {
+      "id": null,
+      "name": "owoc"
+    }
+  },
+  {
+    "name": "winogrona",
+    "price": 12.43,
+    "category": {
+      "id": null,
+      "name": "owoc"
+    }
+  },
+  {
+    "name": "kiwi",
+    "price": 8.79,
+    "category": {
+      "id": null,
+      "name": "owoc"
+    }
+  },
+  {
+    "name": "mandarynka",
+    "price": 7.77,
+    "category": {
+      "id": null,
+      "name": "owoc"
+    }
+  },
+  {
+    "name": "winogrona",
+    "price": 11.11,
+    "category": {
+      "id": null,
+      "name": "owoc"
+    }
+  },
+  {
+    "name": "laptop",
+    "price": 999.11,
+    "category": {
+      "id": null,
+      "name": "elektronika"
+    }
+  },
+  {
+    "name": "telewizor",
+    "price": 999.11,
+    "category": {
+      "id": null,
+      "name": "elektronika"
+    }
+  },
+  {
+    "name": "mp-3",
+    "price": 111.09,
+    "category": {
+      "id": null,
+      "name": "elektronika"
+    }
+  },
+  {
+    "name": "sluchawki",
+    "price": 199.87,
+    "category": {
+      "id": null,
+      "name": "elektronika"
+    }
+  },
+  {
+    "name": "tablet",
+    "price": 1999.11,
+    "category": {
+      "id": null,
+      "name": "elektronika"
+    }
+  },
+  {
+    "name": "wieza",
+    "price": 876.43,
+    "category": {
+      "id": null,
+      "name": "elektronika"
+    }
+  },
+  {
+    "name": "walkman",
+    "price": 9.66,
+    "category": {
+      "id": null,
+      "name": "elektronika"
+    }
+  },
+  {
+    "name": "mp-4",
+    "price": 1089,
+    "category": {
+      "id": null,
+      "name": "elektronika"
+    }
+  },
+  {
+    "name": "zelazko",
+    "price": 222.02,
+    "category": {
+      "id": null,
+      "name": "elektronika"
+    }
+  },
+  {
+    "name": "telefon",
+    "price": 567,
+    "category": {
+      "id": null,
+      "name": "elektronika"
+    }
+  },
+  {
+    "name": "komoda",
+    "price": 123,
+    "category": {
+      "id": null,
+      "name": "meble"
+    }
+  },
+  {
+    "name": "szafa",
+    "price": 765.89,
+    "category": {
+      "id": null,
+      "name": "meble"
+    }
+  },
+  {
+    "name": "fotel",
+    "price": 150,
+    "category": {
+      "id": null,
+      "name": "meble"
+    }
+  },
+  {
+    "name": "pufa",
+    "price": 67.9,
+    "category": {
+      "id": null,
+      "name": "meble"
+    }
+  },
+  {
+    "name": "sofa",
+    "price": 1965.89,
+    "category": {
+      "id": null,
+      "name": "meble"
+    }
+  },
+  {
+    "name": "krzeslo",
+    "price": 88.89,
+    "category": {
+      "id": null,
+      "name": "meble"
+    }
+  },
+  {
+    "name": "stol",
+    "price": 1265.12,
+    "category": {
+      "id": null,
+      "name": "meble"
+    }
+  },
+  {
+    "name": "stolik nocny",
+    "price": 111.11,
+    "category": {
+      "id": null,
+      "name": "meble"
+    }
+  },
+  {
+    "name": "lozko",
+    "price": 777.33,
+    "category": {
+      "id": null,
+      "name": "meble"
+    }
+  },
+  {
+    "name": "biurko",
+    "price": 99.89,
+    "category": {
+      "id": null,
+      "name": "meble"
+    }
+  }
+]
